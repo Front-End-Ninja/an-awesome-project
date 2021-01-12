@@ -6,8 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### first `yarn`
-### second `yarn dev`
+### before anything make sure to run `npm i -g nodemon`, `npm install -g yarn`
+
+### first step `yarn` in main directory
+### second step `yarn` in client directory
+### third step `cd ..` to main directory and finally..
+### fourth step `yarn dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
