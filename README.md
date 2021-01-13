@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### before anything make sure to run `npm i -g nodemon`, `npm install -g yarn`
+## make sure to use Node version 14.0.0
 
 ### first step `yarn` in main directory
 ### second step `yarn` in client directory
