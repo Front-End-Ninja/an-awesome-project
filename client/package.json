@@ -42,7 +42,6 @@
     "autoprefixer": "^10.1.0",
     "postcss": "^8.2.2",
     "postcss-cli": "^8.3.1",
-    "react-player": "^2.7.2",
     "tailwindcss": "^2.0.2"
   }
 }
